@@ -1,0 +1,12 @@
+{
+  "app_name": "Claude Demo",
+  "version": "1.0.0",
+  "created": "2025-07-11T20:18:09.498943",
+  "capabilities": [
+    "File creation and editing",
+    "Code search and analysis",
+    "Command execution",
+    "Git integration",
+    "Multi-language support"
+  ]
+}
